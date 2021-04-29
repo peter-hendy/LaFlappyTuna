@@ -22,5 +22,10 @@ The only control in this game is the CENTRE button, which is pressed to make the
   - You must aim to fly through the gaps in the walls and not collide with them.
   - You have one life, so once you've hit the wall the game is over.
 
+### Sample Images
+![Game over](https://github.com/peter-hendy/LaFlappyTuna/blob/main/sampleimages/lafortunagameover.jpg?raw=true)
+![In game](https://github.com/peter-hendy/LaFlappyTuna/blob/main/sampleimages/lafortunaingame.jpg?raw=true)
+![Start menu](https://github.com/peter-hendy/LaFlappyTuna/blob/main/sampleimages/lafortunastartmenu.jpg?raw=true)
+
 # Ongoing Bugs:
   - If you repeatedly click the CENTRE button after dying occationally the game over/start menu text will be displayed on the screen after it's been cleared.
