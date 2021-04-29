@@ -23,9 +23,9 @@ The only control in this game is the CENTRE button, which is pressed to make the
   - You have one life, so once you've hit the wall the game is over.
 
 ### Sample Images
-![Game over](https://github.com/peter-hendy/LaFlappyTuna/blob/main/sampleimages/lafortunagameover.jpg?raw=true =250x250)
-![In game](https://github.com/peter-hendy/LaFlappyTuna/blob/main/sampleimages/lafortunaingame.jpg?raw=true =250x250)
-![Start menu](https://github.com/peter-hendy/LaFlappyTuna/blob/main/sampleimages/lafortunastartmenu.jpg?raw=true =250x250)
+<img src="https://github.com/peter-hendy/LaFlappyTuna/blob/main/sampleimages/lafortunagameover.jpg?raw=true" width="100" height="100">
+<img src="https://github.com/peter-hendy/LaFlappyTuna/blob/main/sampleimages/lafortunaingame.jpg?raw=true" width="100" height="100">
+<img src="https://github.com/peter-hendy/LaFlappyTuna/blob/main/sampleimages/lafortunastartmenu.jpg?raw=true" width="100" height="100">
 
 # Ongoing Bugs:
   - If you repeatedly click the CENTRE button after dying occationally the game over/start menu text will be displayed on the screen after it's been cleared.
