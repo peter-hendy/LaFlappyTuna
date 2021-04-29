@@ -28,4 +28,4 @@ The only control in this game is the CENTRE button, which is pressed to make the
 <img src="https://github.com/peter-hendy/LaFlappyTuna/blob/main/sampleimages/lafortunastartmenu.jpg?raw=true" width="400" height="400">
 
 # Ongoing Bugs:
-  - If you repeatedly click the CENTRE button after dying occationally the game over/start menu text will be displayed on the screen after it's been cleared.
+  - If you repeatedly click the CENTRE button after dying occasionally  the game over/start menu text will be displayed on the screen after it's been cleared.
